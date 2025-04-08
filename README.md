@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hola👋! Mi nombre es Nicolas Morebi yo soy desarrollador de software, de Colombia</h3>
+<h3 align="center">Hola👋! Mi nombre es Nicolas Moreno yo soy desarrollador de software, de Colombia</h3>
 <h2 align="center">🌐 Portafolio profesional</h2>
 
 <p align="center">
