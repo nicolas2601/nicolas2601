@@ -6,7 +6,7 @@
 <p align="center">
   📁 Este es mi repositorio profesional de GitHub.<br>
   Puedes ver mi portafolio completo aquí 👉 
-  <a href="https://nicolas2601.github.io/MY_WEB/" target="_blank"><strong>nicolas2601.github.io/MY_WEB</strong></a>
+  <a href="https://mi-portafolio-psi-ruby.vercel.app" target="_blank"><strong>Mi_Portafolio</strong></a>
 </p>
 
 
