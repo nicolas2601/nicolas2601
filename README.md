@@ -1,82 +1,87 @@
-<br clear="both">
+# Nicolas Moreno
 
-<h3 align="center">Hola👋! Mi nombre es Nicolas Moreno yo soy desarrollador de software, de Colombia</h3>
-<h2 align="center">🌐 Portafolio profesional</h2>
+**Backend & Full-Stack Developer** | Bucaramanga, Colombia
 
-<p align="center">
-  📁 Este es mi repositorio profesional de GitHub.<br>
-  Puedes ver mi portafolio completo aquí 👉 
-  <a href="https://mi-portafolio-psi-ruby.vercel.app" target="_blank"><strong>Mi_Portafolio</strong></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moreno-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mi-portafolio-psi-ruby.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nm5571762@gmail.com)
 
+---
 
-###
+## About Me
+
+Backend and Full-Stack Developer with 2+ years of experience building scalable web applications and cloud infrastructure. Currently pursuing a Systems Engineering degree (7th semester) at Universidad Autonoma de Bucaramanga (UNAB). Certified in 5 AWS Academy programs covering cloud architecture, foundations, and operations.
+
+I focus on designing robust APIs, automated systems, and self-hosted infrastructure that solve real problems.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Automated Prospecting Platform** | End-to-end sales prospecting system with automated outreach workflows | Python, Django, PostgreSQL |
+| **IoT Dashboard** | Real-time monitoring dashboard for IoT device data visualization | TypeScript, React, Node.js |
+| **Sign Language App** | Application for sign language recognition and translation | Python, ML |
+| **Self-Hosted Infrastructure** | Production infrastructure managed with Coolify on personal servers | Docker, Coolify, Linux |
+
+---
+
+## Certifications
+
+- AWS Academy Cloud Foundations
+- AWS Academy Cloud Architecting
+- AWS Academy Cloud Developing
+- AWS Academy Cloud Operations
+- AWS Academy Data Engineering
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas2601&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas2601&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas2601&layout=compact&card_width=320&langs_count=8&theme=github_dark&locale=en&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/nic.sam.s_ok?igsh=eTdldG4xM244ZGhq&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:nm5571762@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-moreno-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<p align="center">
+  <i>Open to remote opportunities and collaborations.</i>
+</p>
