@@ -15,7 +15,7 @@ Bucaramanga, Colombia · GMT-5 · Open to remote opportunities
 
 ## About
 
-Ingeniero de software con más de 2 años de experiencia diseñando, desarrollando y desplegando aplicaciones web escalables y sistemas backend en producción. Actualmente curso 7° semestre de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB).
+Ingeniero de software con más de 2 años de experiencia diseñando, desarrollando y desplegando aplicaciones web escalables y sistemas backend en producción. Actualmente curso 8° semestre de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB).
 
 Trabajo principalmente en Python (Django, FastAPI) y TypeScript (NestJS, Node.js), con frontend en React/Next.js y aplicaciones móviles con React Native. Tengo experiencia armando infraestructura self-hosted con Docker y Coolify sobre servidores Linux, y certificaciones AWS Academy en cinco áreas (Cloud Foundations, Data Engineering, ML for NLP, Generative AI, IoT).
 
