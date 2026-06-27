@@ -1,153 +1,112 @@
 # Nicolás Moreno
 
-**Software Engineer — Backend & Full-Stack Developer**
-Bucaramanga, Colombia · GMT-5 · Open to remote opportunities
+**Backend & Full-Stack Developer** · AI Automation · Bucaramanga, Colombia 🇨🇴
 
-<p>
-  <a href="https://linkedin.com/in/nicolas-moreno-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nicolasmoreno.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:nm5571762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nicolasmoreno.site/CV_Nicolas_Moreno.pdf"><img src="https://img.shields.io/badge/CV-PDF-4A5568?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logoColor=white" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicolasmoreno.site-000000?style=flat&logo=vercel&logoColor=white)](https://nicolasmoreno.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moreno-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nm5571762@gmail.com)
 
 ---
 
-## About
+## About Me
 
-Ingeniero de software con más de 2 años de experiencia diseñando, desarrollando y desplegando aplicaciones web escalables y sistemas backend en producción. Actualmente curso 8° semestre de Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB).
+Software developer focused on **backend APIs, AI agent automation, and self-hosted infrastructure**. Systems Engineering student at Universidad Autónoma de Bucaramanga (UNAB), currently in 8th semester (expected graduation 2027).
 
-Trabajo principalmente en Python (Django, FastAPI) y TypeScript (NestJS, Node.js), con frontend en React/Next.js y aplicaciones móviles con React Native. Tengo experiencia armando infraestructura self-hosted con Docker y Coolify sobre servidores Linux, y certificaciones AWS Academy en cinco áreas (Cloud Foundations, Data Engineering, ML for NLP, Generative AI, IoT).
+I build things end to end: REST APIs, multi-agent AI orchestrators, IoT telemetry platforms, and security audits. I work daily with Python, TypeScript and Linux, and I like solving real problems — from hackathon challenges on public-contract transparency to a self-supervised learning thesis for skin-lesion classification.
 
-Me enfoco en construir APIs mantenibles, automatizar procesos de negocio y entregar software que se despliegue y se mantenga sin sorpresas.
+Trained through **AWS Academy** (Cloud Foundations, Data Engineering, ML for NLP, Generative AI, IoT) and **Cisco Networking Academy** (Python).
 
 ---
 
-## Stack
-
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
 **Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**AI & Automation**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LLM_Orchestration-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Bases de datos**
+**Databases & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**DevOps & Cloud**
+**Languages**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Automatización**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
-## Experiencia seleccionada
+## Featured Projects
 
-**Freelance Software Developer** · Ene 2024 – Presente
-Diseño y despliegue de aplicaciones full-stack para clientes PYME en logística, salud y comercio. Implementación de plataformas de prospección automatizada, bots de WhatsApp/Telegram para atención al cliente, infraestructura self-hosted con Coolify y automatización de workflows con n8n.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[router-skills](https://github.com/nicolas2601/router-skills)** | Cross-platform provisioner that forces Claude Code & opencode to use Agent Skills every turn | Node.js, CLI |
+| **[hackathon-cyberrisk-27001](https://github.com/nicolas2601/hackathon-cyberrisk-27001)** | Security risk assessment: Red Team labs, MAGERIT methodology & ISO/IEC 27001:2022 | Security, Red Team |
+| **[GobIA Auditor (orquestador-minimax)](https://github.com/nicolas2601/orquestador-minimax)** | LLM + agent-swarm orchestrator auditing Colombian public contracts (SECOP II) — Hackathon Colombia 5.0 | TypeScript, AI Agents |
+| **[sql-injection-demo](https://github.com/nicolas2601/sql-injection-demo)** | Twin Flask apps (vulnerable vs hardened) demonstrating OWASP injection, XSS, SSTI & more | Python, Flask, OWASP |
+| **[marca-ganado-generator](https://github.com/nicolas2601/marca-ganado-generator)** | AI cattle-brand generator with 29 official registered figures | Preact, Hono, Gemini AI |
+| **[Set Cover 500×500](https://github.com/nicolas2601/setcover-julian)** | Exact vs metaheuristic optimization, cinematic presentation — Operations Research, UNAB | Next.js, R3F, GSAP |
+| **[IOT_Central](https://github.com/nicolas2601/IOT_Central)** | Azure-IoT-inspired platform for ingesting and analyzing device/sensor telemetry | Python, IoT |
+| **[Degree Thesis](https://github.com/nicolas2601/Proyecto-de-grado-)** | Self-supervised learning for skin-lesion classification (HAM10000) | Python, ML, SSL |
 
-**Web Developer** · Accasoft ERP · Jun 2023 – Jun 2024
-Desarrollo y mantenimiento de módulos internos de un sistema ERP. Interfaces responsivas en HTML5/CSS3/JavaScript/PHP, gestión de CMS WordPress y optimización de rendimiento frontend.
-
----
-
-## Proyectos
-
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [IOT_Central](https://github.com/nicolas2601/IOT_Central) | Django · MQTT · Next.js · TimescaleDB | Plataforma de telemetría en tiempo real inspirada en Azure IoT Central. 100+ dispositivos conectados, latencia <100 ms. |
-| [Ecommerce-TIKNO-Project](https://github.com/nicolas2601/Ecommerce-TIKNO-Project) | React · Django · Supabase | E-commerce full-stack con integración de pagos, CRM y notificaciones automáticas. |
-| [data-ciencia-lsc](https://github.com/nicolas2601/data-ciencia-lsc) | React Native · FastAPI · Transformers | Intérprete de Lengua de Señas Colombiana con ML on-device. ~95% de precisión. |
-| [hackaton](https://github.com/nicolas2601/hackaton) | Python · Django | CacaoTrace — pasaporte digital para trazabilidad del cacao de Santander. Hackathon Colombia 5.0. |
-| [omnicoder](https://github.com/nicolas2601/omnicoder) | Shell · CLI | Herramienta CLI de productividad para desarrolladores con integración de agentes LLM. |
-| [cotizador](https://github.com/nicolas2601/cotizador) | TypeScript | Aplicación de cotización y gestión de precios. |
-| [mi-portafolio](https://github.com/nicolas2601/mi-portafolio) | Astro · TailwindCSS | Portafolio personal desplegado en Vercel. |
-
-Plataforma de prospección automatizada (privada): scraping de Google Maps, CRM en PostgreSQL, mensajería personalizada con LLMs y envío vía Gmail SMTP. Reducción estimada del 80% en tiempo de prospección manual.
+> 🔒 Also building privately: **TIKNO** (TypeScript), **HARNES** — an agentic CLI orchestrator on the Claude Agent SDK, and **claude-minimax-kit** (179 agents · 55+ skills · auto-installer).
 
 ---
 
-## Certificaciones
+## Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Data_Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Generative_AI-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Intro_to_IoT-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-## Educación
-
-**Ingeniería de Sistemas** — Universidad Autónoma de Bucaramanga (UNAB), 7° semestre. Graduación estimada 2026.
-**Técnico en Sistemas** — Instituto Técnico Dámaso Zapata.
-
----
-
-## Idiomas
-
-Español (nativo) · Inglés (B1 — lectura técnica fluida, comunicación escrita funcional)
+- AWS Academy — Cloud Foundations
+- AWS Academy — Data Engineering
+- AWS Academy — Machine Learning for NLP
+- AWS Academy — Generative AI
+- AWS Academy — IoT
+- Cisco Networking Academy — Python Essentials
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas2601&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas2601&layout=compact&langs_count=10&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas2601&layout=compact&card_width=320&langs_count=8&theme=github_dark&locale=en&hide_border=true" height="170" alt="Top Languages" />
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## Contacto
-
-Actualmente abierto a oportunidades remotas como Backend o Full-Stack Developer.
-
-- Email: nm5571762@gmail.com
-- Teléfono: +57 350 232 8517
-- LinkedIn: [in/nicolas-moreno-dev](https://linkedin.com/in/nicolas-moreno-dev)
-- Portfolio: [nicolasmoreno.site](https://nicolasmoreno.site)
+<p align="center">
+  <i>Open to remote opportunities and collaborations.</i>
+</p>
