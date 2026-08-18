@@ -1,112 +1,152 @@
-# Nicolás Moreno
+<!-- Animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=210&section=header&text=Nicol%C3%A1s%20Moreno&fontSize=64&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Agents%20%C2%B7%20Automation&descSize=20&descAlignY=58" width="100%" alt="Header banner" />
+</p>
 
-**Backend & Full-Stack Developer** · AI Automation · Bucaramanga, Colombia 🇨🇴
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/nicolas2601">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;AI+Agent+%26+Multi-Agent+Orchestration;Open-Source+Author+%E2%80%94+npm+packages+published;WhatsApp+%2F+n8n+Automation+Builder;Arch+Linux+%2B+Terminal+Enjoyer+%F0%9F%90%A7" alt="Typing animation" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nicolasmoreno.site-000000?style=flat&logo=vercel&logoColor=white)](https://nicolasmoreno.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moreno-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nm5571762@gmail.com)
+<p align="center">
+  <a href="https://nicolasmoreno.site"><img src="https://img.shields.io/badge/Portfolio-nicolasmoreno.site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nicolas-moreno-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nm5571762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.npmjs.com/~nicolas2601"><img src="https://img.shields.io/badge/npm-Author-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+</p>
 
----
-
-## About Me
-
-Software developer focused on **backend APIs, AI agent automation, and self-hosted infrastructure**. Systems Engineering student at Universidad Autónoma de Bucaramanga (UNAB), currently in 8th semester (expected graduation 2027).
-
-I build things end to end: REST APIs, multi-agent AI orchestrators, IoT telemetry platforms, and security audits. I work daily with Python, TypeScript and Linux, and I like solving real problems — from hackathon challenges on public-contract transparency to a self-supervised learning thesis for skin-lesion classification.
-
-Trained through **AWS Academy** (Cloud Foundations, Data Engineering, ML for NLP, Generative AI, IoT) and **Cisco Networking Academy** (Python).
-
----
-
-## Tech Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**AI & Automation**
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLM_Orchestration-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Databases & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicolas2601&style=for-the-badge&color=7C3AED" alt="Profile views" />
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 About Me
+
+I'm **Nicolás Moreno**, a Backend & Full-Stack Developer from Bucaramanga, Colombia 🇨🇴, specialized in **AI agent engineering and automation**. I don't just use AI coding tools — I **configure, extend, and build them**: agent harnesses, skill routers, MCP servers, and multi-agent swarm orchestration.
+
+- 🏆 **1st place (regional)** — Hackathon Colombia 5.0 (MinTIC), with an LLM agent-swarm auditing public contracts, plus national finalist in Bogotá
+- 🤖 **Open-source author**: published npm packages — **OmniCoder CLI** and **Claude MiniMax Kit** (382 skills · 235 agents · 7 MCPs)
+- 🧠 **Degree thesis**: Self-Supervised Learning (DINOv2, Vision Transformers, PyTorch) for skin-lesion classification, advised with KAUST collaboration
+- 📱 Built a **WhatsApp Cloud API + n8n reservation system** that cut operations time by ~80%
+- 🎓 Systems Engineering @ **UNAB** — 8th semester, graduating 2027
+- ⚡ Daily driver: **Arch Linux**, Neovim, tmux, and a heavily customized agentic terminal
+
+> 💡 *"We direct, AI executes — but you need to know what to ask, and why the answer might be wrong."*
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,nestjs,express,bun,laravel,php,go" alt="Backend" />
+</p>
+
+### 🤖 AI & Agentic Engineering
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP_Servers-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Swarms-06B6D4?style=flat-square&logo=openai&logoColor=white" alt="Swarms" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+### 🎨 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,ts,js" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React_Native_·_Expo-61DAFB?style=flat-square&logo=expo&logoColor=black" alt="React Native / Expo" height="48" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,nginx,linux,arch,git,githubactions,bash" alt="Infra" />
+</p>
+
+---
+
+## 📦 Open Source & Tools I Built
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[OmniCoder CLI](https://www.npmjs.com/~nicolas2601)** | Agentic CLI published on npm — multi-provider LLM routing (Claude, MiniMax, DeepSeek, Gemini) | Node.js, CLI |
+| **[Claude MiniMax Kit](https://www.npmjs.com/~nicolas2601)** | Plugin marketplace for Claude Code: 382 skills · 235 agents · 7 MCP servers, one-command install | Node.js, MCP |
+| **[router-skills](https://github.com/nicolas2601/router-skills)** | Cross-platform skill router (BM25 + bigram scoring) that enforces Agent Skills in Claude Code & opencode | Node.js |
+| **[GobIA Auditor](https://github.com/nicolas2601/orquestador-minimax)** | 🏆 LLM + agent-swarm orchestrator auditing Colombian public contracts (SECOP II) — Hackathon Colombia 5.0 winner | TypeScript, AI Agents |
+
+## 💼 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[router-skills](https://github.com/nicolas2601/router-skills)** | Cross-platform provisioner that forces Claude Code & opencode to use Agent Skills every turn | Node.js, CLI |
-| **[hackathon-cyberrisk-27001](https://github.com/nicolas2601/hackathon-cyberrisk-27001)** | Security risk assessment: Red Team labs, MAGERIT methodology & ISO/IEC 27001:2022 | Security, Red Team |
-| **[GobIA Auditor (orquestador-minimax)](https://github.com/nicolas2601/orquestador-minimax)** | LLM + agent-swarm orchestrator auditing Colombian public contracts (SECOP II) — Hackathon Colombia 5.0 | TypeScript, AI Agents |
-| **[sql-injection-demo](https://github.com/nicolas2601/sql-injection-demo)** | Twin Flask apps (vulnerable vs hardened) demonstrating OWASP injection, XSS, SSTI & more | Python, Flask, OWASP |
-| **[marca-ganado-generator](https://github.com/nicolas2601/marca-ganado-generator)** | AI cattle-brand generator with 29 official registered figures | Preact, Hono, Gemini AI |
-| **[Set Cover 500×500](https://github.com/nicolas2601/setcover-julian)** | Exact vs metaheuristic optimization, cinematic presentation — Operations Research, UNAB | Next.js, R3F, GSAP |
-| **[IOT_Central](https://github.com/nicolas2601/IOT_Central)** | Azure-IoT-inspired platform for ingesting and analyzing device/sensor telemetry | Python, IoT |
-| **[Degree Thesis](https://github.com/nicolas2601/Proyecto-de-grado-)** | Self-supervised learning for skin-lesion classification (HAM10000) | Python, ML, SSL |
+| **[Degree Thesis — SSL](https://github.com/nicolas2601/Proyecto-de-grado-)** | Self-supervised learning (DINOv2 + ViT) for skin-lesion classification on HAM10000 | PyTorch, ML |
+| **[hackathon-cyberrisk-27001](https://github.com/nicolas2601/hackathon-cyberrisk-27001)** | Security risk assessment: Red Team labs, MAGERIT & ISO/IEC 27001:2022 | Security |
+| **[sql-injection-demo](https://github.com/nicolas2601/sql-injection-demo)** | Twin Flask apps (vulnerable vs hardened) demonstrating OWASP injection, XSS, SSTI | Flask, OWASP |
+| **[marca-ganado-generator](https://github.com/nicolas2601/marca-ganado-generator)** | AI cattle-brand generator with 29 official registered figures | Preact, Hono, Gemini |
+| **[Set Cover 500×500](https://github.com/nicolas2601/setcover-julian)** | Exact vs metaheuristic optimization with a cinematic presentation — Operations Research | Next.js, R3F, GSAP |
+| **[IOT_Central](https://github.com/nicolas2601/IOT_Central)** | Azure-IoT-inspired platform ingesting and analyzing device telemetry | Python, IoT |
 
-> 🔒 Also building privately: **TIKNO** (TypeScript), **HARNES** — an agentic CLI orchestrator on the Claude Agent SDK, and **claude-minimax-kit** (179 agents · 55+ skills · auto-installer).
+> 🔒 Also building privately: **TikCli** (agentic CLI on the Claude Agent SDK), **AVÍSAME** (NestJS 11 + Prisma 7 + Next 15 + Expo), and a **WhatsApp booking bot** in production for a glamping business.
 
 ---
 
-## Certifications
+## 🎓 Education & Certifications
 
-- AWS Academy — Cloud Foundations
-- AWS Academy — Data Engineering
-- AWS Academy — Machine Learning for NLP
-- AWS Academy — Generative AI
-- AWS Academy — IoT
-- Cisco Networking Academy — Python Essentials
+- **B.S. Systems Engineering** — Universidad Autónoma de Bucaramanga (UNAB), 2027
+- **AWS Academy** ×5 — Cloud Foundations · Data Engineering · ML for NLP · Generative AI · IoT
+- **Cisco Networking Academy** — Python Essentials
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas2601&layout=compact&card_width=320&langs_count=8&theme=github_dark&locale=en&hide_border=true" height="170" alt="Top Languages" />
-</div>
+<!-- Activity graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nicolas2601&bg_color=0F172A&color=94A3B8&line=7C3AED&point=06B6D4&area_color=7C3AED&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nicolas2601&bg_color=FFFFFF&color=475569&line=7C3AED&point=06B6D4&area_color=EDE9FE&area=true&hide_border=true&radius=12">
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nicolas2601&bg_color=0F172A&color=94A3B8&line=7C3AED&point=06B6D4&area_color=7C3AED&area=true&hide_border=true&radius=12" width="100%" />
+  </picture>
+</p>
+
+<!-- Stats + languages -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=nicolas2601&bg=0F172A&title_color=7C3AED&text=94A3B8&icon_color=06B6D4&border_color=1E293B">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=nicolas2601&bg=FFFFFF&title_color=7C3AED&text=475569&icon_color=06B6D4&border_color=E2E8F0">
+    <img alt="GitHub stats" src="https://ghstats.dev/api/card?username=nicolas2601&bg=0F172A&title_color=7C3AED&text=94A3B8&icon_color=06B6D4&border_color=1E293B" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=nicolas2601&layout=grid&bg=0F172A&title_color=7C3AED&text=94A3B8&icon_color=06B6D4&border_color=1E293B">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=nicolas2601&layout=grid&bg=FFFFFF&title_color=7C3AED&text=475569&icon_color=06B6D4&border_color=E2E8F0">
+    <img alt="Top languages" src="https://ghstats.dev/api/langs?username=nicolas2601&layout=grid&bg=0F172A&title_color=7C3AED&text=94A3B8&icon_color=06B6D4&border_color=1E293B" width="48%" />
+  </picture>
+</p>
 
 <br>
 
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nicolas2601&background=0F172A&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakNum=06B6D4&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub streak" />
+</p>
+
+<!-- Pacman contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Nicolas2601/Nicolas2601/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 ---
 
 <p align="center">
-  <i>Open to remote opportunities and collaborations.</i>
+  <b>🌎 Open to remote opportunities — Backend, Full-Stack & AI/Agentic Engineering roles.</b>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=140&section=footer" width="100%" alt="Footer banner" />
 </p>
